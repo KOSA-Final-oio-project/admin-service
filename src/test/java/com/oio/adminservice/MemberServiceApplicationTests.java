@@ -1,4 +1,4 @@
-package com.oio.memberservice;
+package com.oio.adminservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
